@@ -1,4 +1,4 @@
-### Here is what I'm WOrking on! 👋
+### Here is what I'm Working on! 👋
 
 <!--
 **Bishal-Pahari/Bishal-Pahari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
