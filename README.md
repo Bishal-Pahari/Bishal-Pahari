@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishal-pahari&label=Profile%20views&color=0e75b6&style=flat" alt="bishal-pahari" /> </p>
 
-- 🔭 I’m currently working on AudioBook **Audioc**
+- 🔭 I’m currently working on AudioBook **Audioic**
 
 - 📫 How to reach me **Bishal.pahari53@gmail.com**
 
