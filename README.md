@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **Bishal.pahari53@gmail.com**
 
-- 📄 Know about my experiences [https://bishal-pahari.github.io/CV/](https://bishal-pahari.github.io/CV/)
 
 
 <h3 align="left">Connect with me:</h3>
