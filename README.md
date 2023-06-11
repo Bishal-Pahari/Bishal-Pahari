@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bishal Pahari</h1>
+<h1 align="center">Bonjour, I'm Bishal Pahari</h1>
 <h3 align="center">A Undergraduate of Computer Science.</h3>
 
 
