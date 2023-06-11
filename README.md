@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour, I'm Bishal Pahari</h1>
-<h3 align="center">A Undergraduate of Computer Science.</h3>
+<h3 align="center">An Undergraduate of Computer Science.</h3>
 
 
 <p align="left"> <a href="https://twitter.com/bishalpahari6" target="blank"><img src="https://img.shields.io/twitter/follow/bishalpahari6?logo=twitter&style=for-the-badge" alt="bishalpahari6" /></a> </p>
