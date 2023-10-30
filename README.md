@@ -1,7 +1,8 @@
 <h1 align="center">Bonjour, I'm Bishal Pahari</h1>
 <h3 align="center">An Undergraduate of Computer Science.</h3>
 
-(https://media.licdn.com/dms/image/D4D16AQFaTOwBOo1Fmg/profile-displaybackgroundimage-shrink_350_1400/0/1697341365108?e=1704326400&v=beta&t=6ovwPGsXIeM0Z_Iuobd4KV2VBH1bAZe1mqeQ9QyWt5A)
+![1697341365108](https://github.com/Bishal-Pahari/Bishal-Pahari/assets/61013432/6030e37d-6b59-46ad-8ea3-1255b2f72809)
+
 
 <p align="left"> <a href="https://twitter.com/bishalpahari6" target="blank"><img src="https://img.shields.io/twitter/follow/bishalpahari6?logo=twitter&style=for-the-badge" alt="bishalpahari6" /></a> </p>
 
