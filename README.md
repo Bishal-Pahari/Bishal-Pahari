@@ -34,4 +34,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Bishal-Pahari&icon=3&color=0)](https://visitcount.itsvg.in)
+<a href="https://app.daily.dev/rocketman425"><img src="https://api.daily.dev/devcards/v2/MybUyNvuxkdheOqbAWCSj.png?r=04h" width="356" alt="Bishal's Dev Card"/></a>
+
+
 
