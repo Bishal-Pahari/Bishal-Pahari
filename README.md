@@ -28,11 +28,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bishal-Pahari&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishal-Pahari&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="left">Latest Tweet</h3>
-
-[![](https://gtce.itsvg.in/api?username=bishalpahari6)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
----
 [![](https://visitcount.itsvg.in/api?id=Bishal-Pahari&icon=3&color=0)](https://visitcount.itsvg.in)
 <a href="https://app.daily.dev/rocketman425"><img src="https://api.daily.dev/devcards/v2/MybUyNvuxkdheOqbAWCSj.png?r=04h" width="356" alt="Bishal's Dev Card"/></a>
 
