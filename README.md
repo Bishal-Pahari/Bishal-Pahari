@@ -23,7 +23,7 @@
 <a href="https://dev.to/bishalpahari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bishalpahari" height="30" width="40" /></a>
 <a href="https://twitter.com/bishalpahari6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bishalpahari6" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bishal-pahari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishal-pahari" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/bishal-pahari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bishal-pahari" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18783569/bishal-pahari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bishal-pahari" height="30" width="40" /></a>
 <a href="https://medium.com/@bishal.pahari53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bishal.pahari53" height="30" width="40" /></a>
 </p>
 
