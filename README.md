@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋, I'm Bishal</h1>
 <h3 align="center">An Undergraduate of Computer Science.</h3>
 
-![278931149-6030e37d-6b59-46ad-8ea3-1255b2f72809](https://github.com/Bishal-Pahari/Bishal-Pahari/assets/61013432/ab19f4e9-7824-4f4d-a79a-0447a261e7a6)
+![1711031563462](https://github.com/Bishal-Pahari/Bishal-Pahari/assets/61013432/30469888-d287-477d-9f48-f4d635d9a5df)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishal-pahari" alt="bishal-pahari" /></a> </p>
