@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋, I'm Bishal</h1>
+![image](https://github.com/Bishal-Pahari/Bishal-Pahari/assets/61013432/f9b42006-ece0-4db7-94be-849ae54511cb)<h1 align="center">Bonjour 👋, I'm Bishal</h1>
 <h3 align="center">An Undergraduate of Computer Science.</h3>
 
 ![1711031563462](https://github.com/Bishal-Pahari/Bishal-Pahari/assets/61013432/30469888-d287-477d-9f48-f4d635d9a5df)
@@ -32,5 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishal-pahari&" alt="bishal-pahari" /></p>
 
-<p align="center" ></p><a href="https://app.daily.dev/rocketman425"><img src="https://api.daily.dev/devcards/v2/MybUyNvuxkdheOqbAWCSj.png?r=04h" width="356" alt="Bishal's Dev Card"/></a></p>
+<a href="https://app.daily.dev/rocketman425"><img src="https://api.daily.dev/devcards/v2/MybUyNvuxkdheOqbAWCSj.png?type=wide&r=oac" width="652" alt="Bishal's Dev Card"/></a>
 
