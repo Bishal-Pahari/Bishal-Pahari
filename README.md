@@ -1,4 +1,4 @@
-![image](https://github.com/Bishal-Pahari/Bishal-Pahari/assets/61013432/f9b42006-ece0-4db7-94be-849ae54511cb)<h1 align="center">Bonjour 👋, I'm Bishal</h1>
+<h1 align="center">Bonjour 👋, I'm Bishal</h1>
 <h3 align="center">An Undergraduate of Computer Science.</h3>
 
 ![1711031563462](https://github.com/Bishal-Pahari/Bishal-Pahari/assets/61013432/30469888-d287-477d-9f48-f4d635d9a5df)
