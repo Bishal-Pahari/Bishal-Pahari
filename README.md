@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rose-mitzi-79.tiiny.site/](https://rose-mitzi-79.tiiny.site/)
 
-- 📝 I regularly write articles on [https://medium.com/@bishal.pahari53](https://medium.com/@bishal.pahari53)
+- 📝 I write articles on [https://medium.com/@bishal.pahari53](https://medium.com/@bishal.pahari53)
 
 - 📫 How to reach me **Bishal.pahari53@gmail.com**
 
