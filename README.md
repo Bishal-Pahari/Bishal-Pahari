@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/bishalpahari6" target="blank"><img src="https://img.shields.io/twitter/follow/bishalpahari6?logo=twitter&style=for-the-badge" alt="bishalpahari6" /></a> </p>
 
-- 📖 Currently learning Full stack development **(PERN)** and Motion Design
+- 📖 Currently learning Full stack development and Motion Design
 
 - 👨‍💻 All of my projects are available at [https://rose-mitzi-79.tiiny.site/](https://rose-mitzi-79.tiiny.site/)
 
