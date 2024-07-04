@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, I'm Bishal</h1>
-<p align="center">Software Engineer at <b>Hamro Patro Inc.,</b>, Aviation Enthusiast and RC Hobbyist</h3>
+<p align="center">Software Engineer at <b>Hamro Patro Inc.</b>, Aviation Enthusiast and RC Hobbyist</h3>
 
 
 ![1719347944842](https://github.com/Bishal-Pahari/Bishal-Pahari/assets/61013432/3379f525-c63e-43aa-b092-6dcabaa05806)
