@@ -12,7 +12,7 @@
 
 - 📖 Currently learning Full stack development and Motion Design
 
-- 👨‍💻 All of my projects are available at [https://rose-mitzi-79.tiiny.site/](https://rose-mitzi-79.tiiny.site/)
+- 👨‍💻 All of my projects are available at [Resume.pdf](https://fuchsia-celestia-73.tiiny.site/)
 
 - 📝 I write articles on [https://medium.com/@bishal.pahari53](https://medium.com/@bishal.pahari53)
 
