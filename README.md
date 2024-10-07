@@ -32,5 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishal-pahari&" alt="bishal-pahari" /></p>
 
-<a href="https://app.daily.dev/rocketman425"><img src="https://api.daily.dev/devcards/v2/MybUyNvuxkdheOqbAWCSj.png?type=wide&r=oac" width="652" alt="Bishal's Dev Card"/></a>
-
+<a href="https://app.daily.dev/berlin5"><img src="https://api.daily.dev/devcards/v2/MybUyNvuxkdheOqbAWCSj.png?type=wide&r=98m" width="652" alt="Bishal's Dev Card"/></a>
