@@ -12,8 +12,6 @@
 
 - 📖 Currently learning Golang (Fullstack)
 
-- 👨‍💻 All of my projects are available at [Resume.pdf](https://resume-bishal.tiiny.site)
-
 - 📝 I write articles on [https://medium.com/@bishal.pahari53](https://medium.com/@bishal.pahari53)
 
 - 📫 How to reach me **Bishal.pahari53@gmail.com**
