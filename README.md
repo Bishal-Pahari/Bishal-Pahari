@@ -1,27 +1,21 @@
-<h1 align="center">Bonjour 👋, I'm Bishal</h1>
-<p align="center">Software Engineer, Aviation Enthusiast and RC Hobbyist</h3>
+# Bishal Pahari
+**Software Engineer** I build software with a focus on clean architecture and performance. Outside of professional development, I focus on aviation technology
 
+[LinkedIn](https://linkedin.com/in/bishal-pahari) / [Medium](https://medium.com/@bishal.pahari53) / [Email](mailto:Bishal.pahari53@gmail.com)
 
-![1719347944842](https://github.com/Bishal-Pahari/Bishal-Pahari/assets/61013432/3379f525-c63e-43aa-b092-6dcabaa05806)
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishal-pahari" alt="bishal-pahari" /></a> </p>
+### Technical Proficiencies
+**Languages & Frameworks:** JavaScript (ES6+), TypeScript, Node.js/Express, Sveltekit, NextJS 
+**Infrastructure & Tools:** Docker, MongoDB, Git  
 
+---
 
+### Technical Writing
+* **Recent Articles:** [Medium Profile](https://medium.com/@bishal.pahari53)
+* **Topics:** Web Performance, System Design, and Avionics.
 
+<br />
 
-- 📝 I write articles on [https://medium.com/@bishal.pahari53](https://medium.com/@bishal.pahari53)
-
-- 📫 How to reach me **Bishal.pahari53@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/bishalpahari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bishalpahari" height="30" width="40" /></a>
-<a href="https://twitter.com/bishalpahari6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bishalpahari6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bishal-pahari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishal-pahari" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18783569/bishal-pahari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bishal-pahari" height="30" width="40" /></a>
-<a href="https://medium.com/@bishal.pahari53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bishal.pahari53" height="30" width="40" /></a>
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishal-pahari&" alt="bishal-pahari" /></p>
-
-<a href="https://app.daily.dev/berlin5"><img src="https://api.daily.dev/devcards/v2/MybUyNvuxkdheOqbAWCSj.png?type=wide&r=98m" width="652" alt="Bishal's Dev Card"/></a>
+<a href="https://app.daily.dev/berlin5"><img width="1240" height="640" alt="berlin5" src="https://github.com/user-attachments/assets/5b90bb36-3cc5-47af-a1fd-d45aacced1e5" />
+</a>
