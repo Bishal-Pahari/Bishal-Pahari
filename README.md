@@ -9,8 +9,6 @@
 
 
 
-- 📖 Currently learning Golang (Fullstack)
-
 - 📝 I write articles on [https://medium.com/@bishal.pahari53](https://medium.com/@bishal.pahari53)
 
 - 📫 How to reach me **Bishal.pahari53@gmail.com**
