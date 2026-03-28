@@ -6,7 +6,7 @@
 ---
 
 ### Technical Proficiencies
-**Languages & Frameworks:** JavaScript (ES6+), TypeScript, Node.js/Express, Sveltekit, NextJS 
+**Languages & Frameworks:** JavaScript (ES6+), TypeScript, Node.js/Express, Sveltekit, NextJS  <br/>
 **Infrastructure & Tools:** Docker, MongoDB, Git  
 
 ---
