@@ -5,12 +5,6 @@
 
 ---
 
-### Technical Proficiencies
-**Languages & Frameworks:** JavaScript (ES6+), TypeScript, Node.js/Express, Sveltekit, NextJS  <br/>
-**Infrastructure & Tools:** Docker, MongoDB, Git  
-
----
-
 ### Technical Writing
 * **Recent Articles:** [Medium Profile](https://medium.com/@bishal.pahari53)
 * **Topics:** Web Performance, System Design, and Avionics.
