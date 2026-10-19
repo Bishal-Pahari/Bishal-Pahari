@@ -1,13 +1,20 @@
 # Bishal Pahari
-**Software Engineer** I build software with a focus on clean architecture and performance. Outside of professional development, I focus on aviation technology
 
-[LinkedIn](https://linkedin.com/in/bishal-pahari) / [Medium](https://medium.com/@bishal.pahari53) / [Email](mailto:Bishal.pahari53@gmail.com)
+**Software Engineer**
 
----
+I build web applications and developer tools. I care about how they perform, how they handle data, and how easy they are to understand and maintain.
 
-### Technical Writing
-* **Recent Articles:** [Medium Profile](https://medium.com/@bishal.pahari53)
-* **Topics:** Web Performance, System Design, and Aviation.
+### Currently building
+
+[**Valence**](https://github.com/Bishal-Pahari/valence) - an open-source architecture for running a web UI inside a Flutter app, with signed UI updates, native SQLite storage, and a typed bridge between TypeScript and Dart.
+
+I'm working through the details of sharing a codebase across web and mobile while keeping data available offline.
+
+### Writing & interests
+
+I write about web performance, system design, and aviation technology. Outside software, aviation is a long-standing interest.
+
+[LinkedIn](https://www.linkedin.com/in/bishal-pahari/) · [Medium](https://medium.com/@bishal.pahari53) · [Email](mailto:Bishal.pahari53@gmail.com)
 
 <br />
 
