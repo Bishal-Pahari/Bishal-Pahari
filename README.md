@@ -7,7 +7,7 @@
 
 ### Technical Writing
 * **Recent Articles:** [Medium Profile](https://medium.com/@bishal.pahari53)
-* **Topics:** Web Performance, System Design, and Avionics.
+* **Topics:** Web Performance, System Design, and Aviation.
 
 <br />
 
